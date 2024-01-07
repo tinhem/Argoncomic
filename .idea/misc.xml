@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/abc.xml" value="0.1175925925925926" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/ic_home.xml" value="0.15989583333333332" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/ic_reward.xml" value="0.290625" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/khung.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/drawable/test.xml" value="0.1175925925925926" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/activity_test.xml" value="0.159375" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/cttruyen.xml" value="0.176" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/cuahang.xml" value="0.136" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/dangky.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/dangnhap.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/diemthuong.xml" value="0.136" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/docchapter.xml" value="0.1506849315068493" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/doimatkhau.xml" value="0.25" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_b_x_h_luot_xem.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_b_x_h_vote.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_chapter.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_chi_tiet.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_cua_hang.xml" value="0.10729166666666666" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_goi_y_truyen.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_kho_vat_pham.xml" value="0.10729166666666666" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_lich_su_doc_truyen.xml" value="0.176" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_lich_su_doi.xml" value="0.10729166666666666" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_theloai_luotxem.xml" value="0.11770833333333333" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_theloai_new.xml" value="0.11770833333333333" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_theloai_vote.xml" value="0.11770833333333333" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/fragment_tu_sach.xml" value="0.136" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/header.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_cat.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_docchapter.xml" value="0.10520833333333333" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_binhluan.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_binhluan_truyen.xml" value="0.25" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_chapter.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_docchapter.xml" value="0.176" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_khovatpham.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_lichsudoi.xml" value="0.275" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_lsnhandiem.xml" value="0.25679347826086957" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_qlbinhluan.xml" value="0.24592391304347827" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_qltaikhoan.xml" value="0.176" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_qlthongke.xml" value="0.23007246376811594" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_qltruyen.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_theloainew.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_thongbao.xml" value="0.25" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_timkiem.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_tong.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_truyendadoc.xml" value="0.15989583333333332" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rcv_vatpham.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/item_rv.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/lichsunhandiem.xml" value="0.25679347826086957" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/matkhaumoi.xml" value="0.16" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/qlthongke.xml" value="0.23007246376811594" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/quanlybinhluan.xml" value="0.24592391304347827" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/quanlytaikhoan.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/quanlytruyen.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/quenmk.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showbinhluan.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showdanhgia.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showthongtinbinhluan.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showthongtinchapter.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showthongtintaikhoan.xml" value="0.2572463768115942" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showthongtinthongke.xml" value="0.23007246376811594" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/showthongtintruyen.xml" value="0.264" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/theloai.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/thongbao.xml" value="0.136" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/thongtintaikhoan.xml" value="0.2" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/timkiem.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/trangchu.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/layout/xephang.xml" value="0.4" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Nam 4/HKI_2021-2022/PTUDDiDong/AppDocTruyen/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/AppDocTruyen/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/AppDocTruyen/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.275" />
+        <entry key="..\:/Users/Admin/Desktop/AppDocTruyen/app/src/main/res/layout/thongbao.xml" value="0.275" />
+        <entry key="..\:/Users/Admin/Desktop/AppDocTruyen/app/src/main/res/layout/trangchu.xml" value="0.20244565217391305" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
